@@ -19,3 +19,6 @@ This project is an advanced evolution of a linear algebra coursework assignment,
 ## Key Finding
 * Exchange nodes consistently occupied the top 5 ranks, accounting for over 70% of total stationary probability mass.
 * Demonstrated that the network converges to a steady state, allowing for the quantitative ranking of node importance.
+
+<img width="1589" height="790" alt="Markov" src="https://github.com/user-attachments/assets/bab877f3-8625-43d3-a0ba-ffd812a0f279" />
+Sensitivity analysis of node influence across varying damping factors (alpha). The visualization confirms that the top 5 nodes consistently dominate the network, accounting for over 70% of the total stationary probability mass. This demonstrates a high concentration of liquidity, mirroring real-world Bitcoin wealth distribution modeled.
